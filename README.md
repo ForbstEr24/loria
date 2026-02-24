@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rey</h1>
+<h1 align="center">Hi 👋, I'm christian</h1>
 <h3 align="center">A passionate Full Stack developer from Philippines</h3>
 
-- 🔭 I’m currently working on [Portfolio Website](https://www.reyndoming.site/)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.reyndoming.site/](https://www.reyndoming.site/)
-
 - 💬 Ask me about **Laravel, ASP.Net, React**
 
-- 📫 How to reach me **reyndoming@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny and Corny**
+- ⚡ Fun fact **I think I'm sexy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/reyndoming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reyndoming" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reyndoming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
