@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Laravel, ASP.Net, React**
 
-- ⚡ Fun fact **I think I'm sexy**
+- ⚡ Fun fact **I think I'm sexy and smart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
